@@ -1,6 +1,11 @@
-# Credit-Card-Fraud-Detection-ML-WebApp
+# Credit-Card-Fraud-Detection
 # Dataset
 link of dataset=https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+# After downloading the dataset extract it and put the .csv file in the project folder. 
+# I mean for the project , i have credit card detection as my root folder and credit card as a sub folder, so put the .csv file in the sub folder(credit card).
+
+# to enter the sub folder using the command cd "credit card" (the quotes are important).
 
 The datasets contains credit card transactions over a two day collection period in September 2013 by European cardholders. There are a total of 284,807 transactions, of which 492 (0.172%) are fraudulent.
 
@@ -8,13 +13,16 @@ The dataset contains numerical variables that are the result of a principal comp
 
 The dataset was collected and analysed during a research collaboration of Worldline and the Machine Learning Group of Université Libre de Bruxelles (ULB) on big data mining and fraud detection.
 
-# Models
-Applied various classification techniques like 
-Logistic Regression 
-LightGBM
-K Nearest Neighbors (KNN )
-Classification Trees
-Random Forest 
-SVM
-XGBoost Classifier
+# Models trained
+Applied various classification techniques like,
+Different models were trained to understand the model with the best precision.
+
+# The diiferent models are 
+# Logistic Regression 
+# LightGBM
+# K Nearest Neighbors (KNN )
+# Classification Trees
+# Random Forest 
+# SVM
+# XGBoost Classifier
 
